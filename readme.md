@@ -10,6 +10,7 @@ Stream Classic tracks logged-in user activity so you can monitor every change ma
 **Tested up to:** 4.0  
 **Stable tag:** 1.4.9  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
+**GitHub Plugin URI:** https://github.com/cftp/stream-classic  
 
 ## Description ##
 
@@ -97,7 +98,7 @@ Great! There are several ways you can get involved to help make Stream better:
 
 Thank you for wanting to make Stream better for everyone! We salute you.
 
-[![Build Status](https://travis-ci.org/cftp/stream.png?branch=master)](https://travis-ci.org/cftp/stream)
+[![Build Status](https://travis-ci.org/cftp/stream-classic.png?branch=master)](https://travis-ci.org/cftp/stream-classic)
 
 ## Screenshots ##
 
