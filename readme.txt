@@ -1,15 +1,17 @@
-=== Stream ===
-Contributors:      stream, X-team, fjarrett, westonruter, japh, lukecarbis, shadyvb, jonathanbardo, c3mdigital, johnregan3, akeda, kucrut, topher1kenobe
+=== Stream Classic ===
+Contributors:      philipjohn, cftp
 Tags:              actions, activity, admin, analytics, dashboard, log, notification, stream, users
 Requires at least: 3.7
-Tested up to:      3.9.1
-Stable tag:        trunk
+Tested up to:      4.0
+Stable tag:        1.4.9
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
-Stream tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail.
+Stream Classic tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail. **It DOES NOT require a WordPress.com account.**
 
 == Description ==
+
+A fork of [Stream](https://wordpress.org/plugins/stream/) but without the requirement to have a WordPress.com account or send your sensitive data into the cloud.
 
 [youtube http://www.youtube.com/watch?v=t_qD4Sp4E70]
 
