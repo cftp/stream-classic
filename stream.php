@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Stream Classic
- * Plugin URI: https://github.com/cftp/stream
+ * Plugin URI: https://github.com/cftp/stream-classic
  * Description: Stream tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail. All activity is organized by context, action and IP address for easy filtering. Developers can extend Stream with custom connectors to log any kind of action.
  * Version: 1.4.9
  * Author: Stream/Code for the People
