@@ -4,7 +4,7 @@
 ![Banner](assets/banner-1544x500.png)
 Stream Classic tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail. **It DOES NOT require a WordPress.com account.**
 
-**Contributors:** [philipjohn](http://profiles.wordpress.org/philipjohn), [cftp](http://profiles.wordpress.org/cftp)  
+**Contributors:** [philipjohn](http://profiles.wordpress.org/philipjohn), [codeforthepeople](http://profiles.wordpress.org/codeforthepeople)  
 **Tags:** [actions](http://wordpress.org/plugins/tags/actions), [activity](http://wordpress.org/plugins/tags/activity), [admin](http://wordpress.org/plugins/tags/admin), [analytics](http://wordpress.org/plugins/tags/analytics), [dashboard](http://wordpress.org/plugins/tags/dashboard), [log](http://wordpress.org/plugins/tags/log), [notification](http://wordpress.org/plugins/tags/notification), [stream](http://wordpress.org/plugins/tags/stream), [users](http://wordpress.org/plugins/tags/users)  
 **Requires at least:** 3.7  
 **Tested up to:** 4.0  

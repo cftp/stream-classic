@@ -1,5 +1,5 @@
 === Stream Classic ===
-Contributors:      philipjohn, cftp
+Contributors:      philipjohn, codeforthepeople
 Tags:              actions, activity, admin, analytics, dashboard, log, notification, stream, users
 Requires at least: 3.7
 Tested up to:      4.0
