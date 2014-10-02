@@ -6,6 +6,8 @@ Tested up to:      4.0
 Stable tag:        1.4.9
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+GitHub Plugin URI: cftp/stream-classic
+GitHub Plugin URI: https://github.com/cftp/stream-classic
 
 Stream Classic tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail. **It DOES NOT require a WordPress.com account.**
 
