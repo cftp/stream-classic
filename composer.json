@@ -1,0 +1,15 @@
+{
+	"name"       : "cftp/stream-classic",
+	"description": "Stream tracks logged-in user activity so you can monitor every change made on your WordPress site in beautifully organized detail.",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Code For The People",
+			"homepage": "http://codeforthepeople.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
